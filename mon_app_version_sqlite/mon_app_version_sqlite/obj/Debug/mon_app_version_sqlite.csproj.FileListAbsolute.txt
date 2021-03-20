@@ -1,0 +1,71 @@
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.exe.config
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.exe
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.pdb
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.dll
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite_MarkupCompile.cache
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite_MarkupCompile.lref
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.g.resources
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.Properties.Resources.resources
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csproj.GenerateResource.Cache
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.exe
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.pdb
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Menu.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Ajouter_un_employé.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Menu.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Ajouter_un_employé.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Modifier_un_employé.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Modifier_un_employé.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Supprimer_un_employé.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Supprimer_un_employé.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Liste des employés.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Liste des employés.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csprojResolveAssemblyReference.cache
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Liste des employés.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\MainWindow.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Menu.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Ajouter_un_employé.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Modifier_un_employé.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Port_série.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Supprimer_un_employé.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\App.g.cs
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite_MarkupCompile.cache
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite_MarkupCompile.lref
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.exe
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.pdb
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.exe.config
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.exe
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\mon_app_version_sqlite.pdb
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.dll
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.Platform.Generic.dll
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\SQLite.Net.Platform.Win32.dll
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.dll
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.xml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\bin\Debug\System.Data.SQLite.dll.config
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Liste des employés.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\MainWindow.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Menu.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Ajouter_un_employé.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Modifier_un_employé.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Port_série.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Supprimer_un_employé.baml
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.g.resources
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.Properties.Resources.resources
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csproj.GenerateResource.Cache
+H:\PFE Visual Studio\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\mon_app_version_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Pointage_1.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Pointage_1.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Pointage_par_employé.g.cs
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\Pointage_par_employé.baml
+C:\Users\DELL\source\repos\mon_app_version_sqlite\mon_app_version_sqlite\obj\Debug\App.baml

@@ -1,0 +1,18 @@
+﻿<Application x:Class="mon_app_version_sqlite.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:mon_app_version_sqlite"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Color x:Key="bleu_trquoise">#FF30D3AE</Color>
+        <Color x:Key="bleufoncé">#FF08183C</Color>
+        <Color x:Key="blanc">White</Color>
+        <Color x:Key="blancjaunatre">#FFEBF0BF</Color>
+        <Color x:Key="rose2">#FFD48B8B</Color>
+        <Color x:Key="bleufinal">#FF2DB495</Color>
+        <Color x:Key="jaunemoutarde">#FFB2850E</Color>
+        <Color x:Key="Fond">#FF2DB495</Color>
+
+    </Application.Resources>
+</Application>
